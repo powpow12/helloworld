@@ -7,7 +7,7 @@ public class TestHelloWorld {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("Sean idds the coodafdlest !!!");
+		System.out.println("Sean is the coolest !!!");
 
 	}
 
