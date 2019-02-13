@@ -9,6 +9,8 @@ public class TestHelloWorld {
 
 		System.out.println("Sean is the coolest !!!");
 
+		System.out.println("Yeah he's pretty cool");
+
 	}
 
 }
